@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-groq
+langgraph
+pydantic
+pydantic_core
+python-dotenv
+numpy
+pandas
+python-dotenv
